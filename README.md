@@ -5,6 +5,14 @@ A 2D arcade-style catching game made with Python and Kivy
 Wagon Catcher is a simple yet addictive game where you control a wagon to catch falling food before it hits the ground.
 As levels progress, the speed, challenge, and number of falling items increase — testing your focus and reflexes.
 
+## 🖼️ Screenshots
+
+**Gameplay Examples**
+
+| Level Start | Mid Game | Game Over |
+|--------------|-----------|-----------|
+| ![Start](images/coincatchimage1.png) | ![Mid](images/coincatchimage2.png) | ![Level Up](images/coincatchimage3.png) |
+
 🎯 Gameplay
 
 Use the arrow keys to move the wagon left and right.
