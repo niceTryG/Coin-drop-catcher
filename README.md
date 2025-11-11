@@ -95,3 +95,5 @@ pip install kivy
 Run the game:
 
 python main.py
+
+#Readme was created with help of AI
